@@ -6,6 +6,7 @@ This is a simple API that returns a JSON containing my email address, current da
 
 ### FRAMEWORK
 ExpressJS
+Node.js: https://hng.tech/hire/nodejs-developers
 
 ### RUN LOCALLY
 Run git clone "https://github.com/Greatseun02/hng-stage-0-backend.git";  
@@ -25,7 +26,6 @@ Example Response: {
   "current_datetime": "2025-01-30T09:30:00Z",
   "github_url": "<https://github.com/yourusername/your-repo>"
 }
-
 
 
 
