@@ -17,7 +17,7 @@ app.get(
             "github_url": github
         }
 
-        res.json(
+        res.status(200).json(
             data
         )
     }
